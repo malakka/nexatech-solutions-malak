@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location (Replace placeholder with your actual Cloudflare Pages production URL after deployment)
+Sitemap: https://nexatech-solutions.pages.dev/sitemap.xml
